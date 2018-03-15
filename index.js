@@ -1,6 +1,5 @@
 // Code your solution in this file!
 const hq = 42
 function distanceFromHqInBlocks(block) {
-  return block - hq
+  return Number.abs(block - hq)
 }
-
