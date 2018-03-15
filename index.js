@@ -1,4 +1,6 @@
 // Code your solution in this file!
+const hq = 42
 function distanceFromHqInBlocks(block) {
-  return block - 42
+  return block - hq
 }
+
